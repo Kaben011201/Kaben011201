@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bendry Lakburlawal
-- 👀 I’m interested in Website Developer
+- 👀 I’m interested in Website Developer. Specially Front-End. But i'm going on Full-Stack Developer :).
 - 🌱 I’m currently learning React and Laravel
 - 💞️ I’m looking to collaborate on every project to upgrade my skill as Web Developer
 - 📫 You can send message in bendrylakburlawal01@gmail.com
