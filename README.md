@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/bndry_lkbrlwal?igsh=MXhpZDR3cWtld2lpcg==">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="bendry-portofolio.vercel.app">
+  <a href="https://bendry-portofolio.vercel.app">
     <img src="https://img.shields.io/badge/Porto & CV-blue?style=for-the-badge&logo=&logoColor=white" alt="Porto Badge"/>
   </a>
   <div>
