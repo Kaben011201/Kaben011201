@@ -21,11 +21,11 @@
 
 <h3>About Me🤓</h3>
 <ul>
-  <li>👀 I’m interested in Website Developer. Specially Front-End. But I'm going on Full-Stack Developer :)</li>
-  <li>🌱 I’m currently learning React and Laravel</li>
-  <li>💞️ I’m looking to collaborate on every project to upgrade my skill as Web Developer</li>
-  <li>📫 You can send message to bendrylakburlawal01@gmail.com</li>
-  <li>⚡ Fun fact: I learned Next before React. Wkwkwkwk</li>
+  <li>I’m interested in Website Developer. Specially Front-End. But I'm going on Full-Stack Developer :)</li>
+  <li>I’m currently learning React and Laravel</li>
+  <li>I’m looking to collaborate on every project to upgrade my skill as Web Developer</li>
+  <li>You can send message to bendrylakburlawal01@gmail.com</li>
+  <li>Fun fact: I learned Next before React. Wkwkwkwk</li>
 </ul>
 
 <h3>My Tech Stack ⚒️</h3>
