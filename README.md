@@ -48,12 +48,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaben011201&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaben011201&layout=compact&theme=vision-friendly-dark)](https://github.com/Kaben011201/github-readme-stats)
-
 <p align="left">
 <a href="https://github.com/Kaben011201">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaben011201&show_icons=true&theme=dark&background=000000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaben011201&layout=compact&langs_count=8&theme=dark&background=000000"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kaben011201&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kaben011201&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
 </a>
 </p>
 
